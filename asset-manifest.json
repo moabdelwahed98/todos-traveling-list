@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todos_traveling_list/static/css/main.8aaeb569.css",
+    "main.js": "/todos_traveling_list/static/js/main.7410634f.js",
+    "index.html": "/todos_traveling_list/index.html",
+    "main.8aaeb569.css.map": "/todos_traveling_list/static/css/main.8aaeb569.css.map",
+    "main.7410634f.js.map": "/todos_traveling_list/static/js/main.7410634f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8aaeb569.css",
+    "static/js/main.7410634f.js"
+  ]
+}
